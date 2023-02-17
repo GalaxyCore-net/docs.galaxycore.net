@@ -1,5 +1,6 @@
 ---
 title: Citybuild
+parent: Deutsch
 ---
 
 # Was ist CityBuild?
