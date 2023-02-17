@@ -1,5 +1,5 @@
 ---
-title: Citybuild [DE]
+title: Citybuild
 ---
 
 # Was ist CityBuild?
