@@ -1,6 +1,7 @@
 ---
 title: Citybuild
 parent: Deutsch
+has_children: true
 ---
 
 # Was ist CityBuild?
