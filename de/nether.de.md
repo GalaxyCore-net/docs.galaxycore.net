@@ -1,6 +1,7 @@
 ---
 title: Nether
-parent: Deutsch
+parent: Citybuild
+has_children: true
 ---
 
 # Wie funktioniert der Nether?
