@@ -1,5 +1,5 @@
 ---
-title: Citybuild DE
+title: Citybuild_DE
 parent: Deutsch
 has_children: true
 ---
