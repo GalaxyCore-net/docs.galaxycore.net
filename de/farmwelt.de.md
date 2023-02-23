@@ -1,6 +1,6 @@
 ---
 title: Farmwelt
-parent: Citybuildde
+parent: Citybuild DE
 has_children: true
 ---
 
