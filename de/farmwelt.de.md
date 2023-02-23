@@ -1,6 +1,7 @@
 ---
 title: Farmwelt
-parent: Deutsch
+parent: Citybuild
+has_children: true
 ---
 
 # Wie funktioniert die Farmwelt?
