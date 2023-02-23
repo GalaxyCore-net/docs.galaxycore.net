@@ -1,6 +1,6 @@
 ---
 title: Nether
-parent: Citybuild
+parent: English
 ---
 
 # How does the Nether work?
