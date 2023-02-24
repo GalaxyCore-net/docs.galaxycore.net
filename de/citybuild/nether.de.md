@@ -1,8 +1,11 @@
 ---
 title: Nether
-parent: Deutsch
+parent: Citybuild
+grand_parent: Deutsch
 has_children: true
+nav_order: 2
 ---
+
 
 # Wie funktioniert der Nether?
 Die Hauptfunktion des Nethers ist es, Ressourcen und Nahrung zu sammeln, die ihr dann auf dem Citybuild-Server verwenden könnt, um Gebäude zu errichten. Zusätzlich könnt ihr diese Materialien auch gegen Geld verkaufen.

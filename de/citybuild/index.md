@@ -2,6 +2,7 @@
 title: Citybuild
 parent: Deutsch
 has_children: true
+nav_order: 2
 ---
 
 # Was ist CityBuild?
