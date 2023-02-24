@@ -1,6 +1,8 @@
 ---
 title: Farmwelt
-parent: English
+parent: Citybuild
+grand_parent: English
+nav_order: 1
 ---
 
 # How does the farm world work?

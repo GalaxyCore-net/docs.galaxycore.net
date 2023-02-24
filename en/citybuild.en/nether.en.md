@@ -1,6 +1,8 @@
 ---
 title: Nether
-parent: English
+parent: Citybuild
+grand_parent: English
+nav_order: 2
 ---
 
 # How does the Nether work?
