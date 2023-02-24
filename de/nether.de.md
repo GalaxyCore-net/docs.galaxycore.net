@@ -1,6 +1,6 @@
 ---
 title: Nether
-parent: Citybuild_DE
+parent: Deutsch
 has_children: true
 ---
 
