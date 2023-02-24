@@ -1,6 +1,7 @@
 ---
 title: Farmwelt
-parent: Deutsch
+parent: Citybuild
+grand_parent: Deutsch
 has_children: true
 ---
 
