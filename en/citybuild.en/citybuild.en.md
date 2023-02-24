@@ -1,7 +1,8 @@
 ---
-title: Citybuild_EN
+title: Citybuild
 parent: English
 has_children: true
+nav_order: 2
 ---
 
 # What is CityBuild?
