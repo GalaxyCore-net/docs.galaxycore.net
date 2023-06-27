@@ -21,8 +21,10 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jerryjvl/jekyll-build-action@v1    # Choose any one of the Jekyll Actions
         env:
-          JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v1.0.9
+      - name: Deploy GitHub Pages site
+        uses: actions/deploy-pages@v2.0.2
