@@ -1,0 +1,6 @@
+Gemfile.*
+jekyll.bat
+package*
+.idea
+*.iml
+_site

@@ -1,0 +1,20 @@
+main:
+citybuild-en:
+  - title: "GalaxyCity"
+    children:
+      - title: "Citybuild"
+        url: /en/citybuild/
+      - title: "Farming in the Overworld"
+        url: /en/citybuild/farmwelt/
+      - title: "Farming in the Nether"
+        url: /en/citybuild/nether/
+
+citybuild-de:
+  - title: "GalaxyCity"
+    children:
+    - title: "Citybuild"
+      url: /de/citybuild/
+    - title: "Farmen in der Oberwelt"
+      url: /de/citybuild/farmwelt/
+    - title: "Farmen im Nether"
+      url: /de/citybuild/nether/
