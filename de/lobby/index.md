@@ -12,6 +12,6 @@ sidebar:
 # Schallplatte
 
 Über die Schallplatte könnt ihr euren Spielmodus auswählen. Die Schallplatte ist in der Hotbar im 1 Slot. Wenn ihr die
-Schallplatte in der Hand habt könnt ihr mit der rechten Maustaste den Spielmodus auswählen.
+Schallplatte in der Hand habt, könnt ihr mit beiden Maustaste den Spielmodus auswählen.
 
 # 
