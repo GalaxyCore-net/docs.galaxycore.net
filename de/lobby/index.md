@@ -16,4 +16,5 @@ Schallplatte in der Hand habt, könnt ihr mit beiden Maustaste den Spielmodus au
 
 # Profil 
 
-Wenn du dein Profil öffnest, hast du 3 Seiten ![](/assets/img/Profile.png) über die du dein Ausehen,Cosmetics und vieles weiteres Verändern kannst. Außerdem kannst du dort deine Freunde verwalten.
+Wenn du dein Profil öffnest, hast du 3 Seiten über die du dein Ausehen, Cosmetics und vieles weiteres Verändern kannst. Außerdem kannst du dort deine Freunde verwalten.
+![](/assets/img/Profile.png) 
