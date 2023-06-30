@@ -12,9 +12,33 @@ citybuild-en:
 citybuild-de:
   - title: "GalaxyCity"
     children:
-    - title: "Citybuild"
-      url: /de/citybuild/
-    - title: "Farmen in der Oberwelt"
-      url: /de/citybuild/farmwelt/
-    - title: "Farmen im Nether"
-      url: /de/citybuild/nether/
+      - title: "Citybuild"
+        url: /de/citybuild/
+      - title: "Farmen in der Oberwelt"
+        url: /de/citybuild/farmwelt/
+      - title: "Farmen im Nether"
+        url: /de/citybuild/nether/
+
+lobby-en:
+  - title: "Lobby"
+    children:
+      - title: "How does the lobby work?"
+        url: /en/lobby/
+
+lobby-de:
+  - title: "Lobby"
+    children:
+      - title: "Wie funktioniert die Lobby?"
+        url: /en/lobby/
+
+onehit-en:
+  - title: "OneHit"
+    children:
+      - title: "How does OneHit work?"
+        url: /en/onehit/
+
+onehit-de:
+  - title: "OneHit"
+    children:
+      - title: "Wie funktioniert OneHit?"
+        url: /de/onehit/
