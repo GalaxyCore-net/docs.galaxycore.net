@@ -1,13 +1,11 @@
 ---
-title: Lobby
+title: How does the lobby work?
 layout: category
 lang: en
 classes: wide
 sidebar:
   nav: lobby-en
 ---
-
-# How does the lobby work?
 
 # Record
 

@@ -10,6 +10,7 @@ sidebar:
 
 # Wie funktioniert der Nether?
 Die Hauptfunktion des Nethers ist es, Ressourcen und Nahrung zu sammeln, die ihr dann auf dem Citybuild-Server verwenden könnt, um Gebäude zu errichten. Zusätzlich könnt ihr diese Materialien auch gegen Geld verkaufen.
+Alle 24 Stunden setzt sich der Nether zurück, sodass ihr immer wieder neue Ressourcen sammeln könnt.
 
 
 

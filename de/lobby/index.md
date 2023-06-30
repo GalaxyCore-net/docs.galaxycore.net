@@ -1,13 +1,11 @@
 ---
-title: Lobby
+title: Wie funktioniert die Lobby?
 layout: category
 lang: de
 classes: wide
 sidebar:
   nav: lobby-de
 ---
-
-# Wie funktioniert die Lobby?
 
 # Schallplatte
 

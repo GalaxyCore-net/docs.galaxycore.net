@@ -9,7 +9,7 @@ sidebar:
 
 # Wie funktioniert die Farmwelt?
 Die Hauptfunktion der Farmwelt ist es, Ressourcen und Nahrung zu sammeln, die ihr dann auf dem Citybuild-Server verwenden könnt, um Gebäude zu errichten. Zusätzlich könnt ihr diese Materialien auch gegen Geld verkaufen.
-
+Die Farmwelt setzt sich alle 24 Stunden zurück, sodass ihr immer wieder neue Ressourcen sammeln könnt.
 
 
 # Versicherungen
