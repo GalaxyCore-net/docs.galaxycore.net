@@ -25,30 +25,3 @@ When you open your profile, you will find three pages where you can change your 
 You can change the lobby by using the paper that is in the 9th slot of your hotbar. Hold the paper in your hand and click the right mouse button to change the lobby.
 
 ![](/assets/img/SwitchLobbyEN.png)
-
-
-# Gadgets
-
-There are 3 different gadgets that you can use in the lobby. You can select them in your profile under the tab "Gadgets".
-
-
-### Silent Lobby
-
-With the gadget "Silent Lobby" you can hide all other players in your lobby.
-
-
-![](/assets/img/silentde.png)
-
-### Grappling hook
-
-With the gadget "Grappling hook" you can move faster in the lobby and pull yourself through the area.
-
-
-![](/assets/img/grapplingde.png)
-
-### Flying
-
-With the gadget "Fly" you can fly in the lobby.
-
-
-![](/assets/img/flyde.png)

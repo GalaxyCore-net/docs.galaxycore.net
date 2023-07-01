@@ -24,12 +24,16 @@ lobby-en:
     children:
       - title: "How does the lobby work?"
         url: /en/lobby/
+      - title: "Gadgets"
+        url: /en/lobby/gadgets/
 
 lobby-de:
   - title: "Lobby"
     children:
       - title: "Wie funktioniert die Lobby?"
-        url: /en/lobby/
+        url: /de/lobby/
+      - title: "Gadgets"
+        url: /de/lobby/gadgets/
 
 onehit-en:
   - title: "OneHit"
