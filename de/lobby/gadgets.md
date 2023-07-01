@@ -7,7 +7,6 @@ sidebar:
   nav: lobby-de
 ---
 
-
 Es gibt 3 verschiedene Gadgets, die du in der Lobby benutzen kannst. Du kannst sie in deinem Profil unter dem Reiter "Gadgets" auswählen.
 
 
